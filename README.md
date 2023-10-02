@@ -80,8 +80,3 @@ Cronometro
         end
 
 end
-
-
-Este código mostrará el diagrama de flujo en GitHub como una imagen.
-
-También puedes usar un servicio de alojamiento de diagramas de flujo, como MermaidJS, para generar una imagen del diagrama de flujo y luego agregarla a tu archivo README.md.
