@@ -1,4 +1,3 @@
-## Diagrama de flujo del reloj digital
 
 ```mermaid
 flowchart LR
